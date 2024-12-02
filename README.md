@@ -284,6 +284,51 @@ Após a operação, o sistema exibe uma mensagem indicando se as alterações fo
 <h1> </h1>
  ALTERAR VENDA<br>
  Imagem ALTERAR VENDA ![image](https://github.com/isalemecruz/blossom-make-up/blob/59e5f35dd4e8adaaf88234c05635c76aa374c144/alterarvenda.png)<br>
+ Campos Disponíveis:<br>
+
+ID: Identificação única da venda (usada para localizar o registro no banco de dados).<br>
+Funcionário: Nome ou identificação do funcionário responsável pela venda.<br>
+Cliente: Nome ou identificação do cliente associado à compra.<br>
+Produto ID: Identificação única do produto a ser adicionado/removido.<br>
+Valor: Valor total da compra.<br>
+Lista de Produtos: Exibida em um ListBox, onde cada item representa um produto da compra. O usuário pode clicar em itens para seleção.<br>
+Botões e Funcionalidades:<br>
+
+Carregar Venda:<br>
+Localiza a venda pelo ID fornecido e carrega os dados existentes nos campos correspondentes e na lista de produtos.<br>
+
+Adicionar Produto:<br>
+Adiciona um novo produto à lista de produtos da venda. O valor total é atualizado automaticamente.<br>
+
+Remover Produto:<br>
+Remove o produto selecionado na lista de produtos e atualiza o valor total da compra.<br>
+
+Alterar Venda:
+Atualiza as informações da venda no banco de dados com base nas alterações feitas (ex.: produtos adicionados/removidos, valores ajustados).<br>
+
+Cancelar:<br>
+Cancela as alterações feitas e limpa os campos da tela.<br>
+
+Funcionamento Geral:<br>
+
+Busca de Dados Existentes:<br>
+
+O ID da venda é usado para carregar os dados existentes.<br>
+O sistema carrega os produtos na ListBox, exibe o cliente, funcionário e o valor total nos campos apropriados.<br>
+Edição dos Dados:<br>
+
+O usuário pode:<br>
+Adicionar novos produtos à lista.<br>
+Remover produtos existentes.<br>
+Confirmação da Alteração:<br>
+
+Ao clicar no botão "Alterar Venda", o sistema realiza validações (ex.: verificar se o produto existe no banco) e atualiza as informações no banco de dados.<br>
+Mensagem de Feedback:<br>
+
+Após qualquer operação, uma mensagem é exibida:<br>
+Sucesso: Exibe confirmação da atualização da venda.<br>
+Erro: Exibe detalhes do problema (ex.: produto não encontrado, venda não existente).<br>
+
 
 <h1>Cadastrar.</h1>
 A funcionalidade de Cadastro no projeto BlossomMakeup é essencial para a organização e eficiência do sistema, permitindo registrar e gerenciar<br> informações cruciais, como produtos, vendas, marcas, tipos de produtos, clientes e funcionários. Essa funcionalidade centraliza os dados, <br>facilitando o acesso e a atualização, além de otimizar processos como controle de estoque, registro de vendas e geração de relatórios. Ao <br>oferecer um gerenciamento eficiente e reduzir erros manuais, o cadastro contribui para decisões mais assertivas e uma experiência mais <br>profissional, refletindo o compromisso do sistema em atender às necessidades da loja física de maquiagem.<br>
