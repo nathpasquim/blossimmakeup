@@ -54,6 +54,9 @@ Exclusão de funcionário, cliente, venda, produto, marca e tipo de produto: Isa
 <br>
 <h2>Imagens que foram utilizadas</h2>
 fundo da página ScreenSplash:![screenSplashFundo]!(https://github.com/user-attachments/assets/e5d5654e-9d23-4c19-ab6e-58e300ea589f) <br>
+![image](https://github.com/isalemecruz/blossom-make-up/blob/542dcd73a9a0465765e08663a9bc9d956ecc3e69/telaCad.png)<br>
+![image]https://github.com/isalemecruz/blossom-make-up/blob/542dcd73a9a0465765e08663a9bc9d956ecc3e69/logo%20(2).png()<br>
+![image](https://github.com/isalemecruz/blossom-make-up/blob/542dcd73a9a0465765e08663a9bc9d956ecc3e69/retorno.png)<br>
 <br>
 ❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。❀。• *₊°。 ❀°。
 <br>
