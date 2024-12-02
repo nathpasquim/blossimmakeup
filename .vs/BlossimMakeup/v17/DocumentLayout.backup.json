@@ -1,0 +1,1346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\excluirtipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\excluirtipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\exmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\exmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\admlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\admlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\alterarclien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\alterarclien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\alterarfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\alterarfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\alterarprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\alterarprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\alterarvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\alterarvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\cadastrarmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\cadastrarmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\cadastrartipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\cadastrartipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\cadastroclien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\cadastroclien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\cadastrofunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\cadastrofunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\cadastroproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\cadastroproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\cadastrovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\cadastrovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\excliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\excliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\excluimarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\excluimarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\excluircliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\excluircliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\excluirfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\excluirfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\excluirproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\excluirproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\excluirvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\excluirvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\exfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\exfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\exproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\exproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\extipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\extipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\exvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\exvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\cadastrovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\cadastrovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\excliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\excliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\excluimarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\excluimarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\excluircliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\excluircliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\excluirfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\excluirfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\excluirproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\excluirproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\excluirtipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\excluirtipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\excluirvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\excluirvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\exfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\exfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\exmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\exmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\exproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\exproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\extipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\extipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\exvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\exvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastroProduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:BlossimMakeup\\cadastroProduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\vistipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\vistipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\vistipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\vistipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\visvendaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\visvendaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\visvendaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\visvendaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\screensplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\screensplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\ScreenSplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:BlossimMakeup\\ScreenSplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\resources\\fundscreensplah.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\resources\\fundscreensplah.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\resources\\fundoscreensplah.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\resources\\fundoscreensplah.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\resources\\fundolog.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\resources\\fundolog.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\forml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\forml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\menufunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\menufunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\funclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\funclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastroFunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:BlossimMakeup\\cadastroFunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastroClien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:BlossimMakeup\\cadastroClien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\cadastrartipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\cadastrartipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\cadastrarmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\cadastrarmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\alterarvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\alterarvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\alterarprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\alterarprod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\alterarfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\alterarfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\alterarclien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\alterarclien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|c:\\users\\jonas\\desktop\\teste\\blossimmakeup\\blossimmakeup\\menufunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\menufunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\visvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\visvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\visvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\visvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\visproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\visproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\vismarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\vismarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\visproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\visproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\visfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\visfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\vismarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\vismarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\viscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\viscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\visfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\visfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\viscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\viscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:BlossimMakeup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\blossimmakeup\\forml.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:blossimmakeup\\forml.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\FuncLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:BlossimMakeup\\FuncLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\AdmLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:BlossimMakeup\\AdmLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\ScreenSplash.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:BlossimMakeup\\ScreenSplash.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:BlossimMakeup\\form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{15572011-25AE-4C89-B54E-4DDBB4E33C5C}|BlossimMakeup\\BlossimMakeup.csproj|solutionrelative:BlossimMakeup\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "cadastro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastro.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\cadastro.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastro.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\cadastro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:10:08.773Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\login.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\login.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\login.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:21:37.276Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "excluirtipo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excluirtipo.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\excluirtipo.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excluirtipo.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\excluirtipo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:47:22.98Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ScreenSplash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\ScreenSplash.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\ScreenSplash.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\ScreenSplash.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\ScreenSplash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:22:50.848Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "excluircliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excluircliente.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\excluircliente.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excluircliente.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\excluircliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:58:23.198Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "excluircliente.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excluircliente.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\excluircliente.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excluircliente.cs",
+              "RelativeToolTip": "BlossimMakeup\\excluircliente.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAEwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:56:42.333Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "alterarVenda.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\alterarVenda.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\alterarVenda.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\alterarVenda.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\alterarVenda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:38:02.56Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "alterarProd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\alterarProd.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\alterarProd.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\alterarProd.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\alterarProd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:37:25.986Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "alterarFunc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\alterarFunc.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\alterarFunc.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\alterarFunc.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\alterarFunc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:03:02.778Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "exmarca.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\exmarca.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\exmarca.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\exmarca.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\exmarca.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:47:57.685Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "cadastrarMarca.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastrarMarca.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\cadastrarMarca.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastrarMarca.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\cadastrarMarca.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:42:15.797Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "alterarClien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\alterarClien.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\alterarClien.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\alterarClien.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\alterarClien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T01:45:19.168Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\AdmLogin.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\AdmLogin.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\AdmLogin.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\AdmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:11:13.617Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "cadastrarTipo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastrarTipo.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\cadastrarTipo.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastrarTipo.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\cadastrarTipo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:46:16.817Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "cadastroClien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastroClien.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\cadastroClien.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastroClien.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\cadastroClien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:10:27.431Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "cadastroFunc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastroFunc.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\cadastroFunc.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastroFunc.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\cadastroFunc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:08:04.17Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "cadastroProduto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastroProduto.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\cadastroProduto.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastroProduto.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\cadastroProduto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:07:39.955Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "cadastroVenda.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastroVenda.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\cadastroVenda.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastroVenda.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\cadastroVenda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:08:32.529Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "excliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excliente.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\excliente.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excliente.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\excliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:43:37.301Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "excluimarca.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excluimarca.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\excluimarca.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excluimarca.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\excluimarca.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:56:08.94Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "excluirfuncionario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excluirfuncionario.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\excluirfuncionario.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excluirfuncionario.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\excluirfuncionario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:47:18.819Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "excluirproduto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excluirproduto.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\excluirproduto.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excluirproduto.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\excluirproduto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:47:22.145Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "excluirvenda.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excluirvenda.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\excluirvenda.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excluirvenda.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\excluirvenda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:47:24.768Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "exfunc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\exfunc.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\exfunc.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\exfunc.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\exfunc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:47:55.53Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "exproduto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\exproduto.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\exproduto.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\exproduto.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\exproduto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:58:56.095Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "extipo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\extipo.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\extipo.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\extipo.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\extipo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:58:57.707Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "exvenda.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\exvenda.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\exvenda.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\exvenda.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\exvenda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:48:01.316Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "cadastroVenda.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastroVenda.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\cadastroVenda.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastroVenda.cs",
+              "RelativeToolTip": "BlossimMakeup\\cadastroVenda.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAlwHMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:47:02.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "excliente.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excliente.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\excliente.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excliente.cs",
+              "RelativeToolTip": "BlossimMakeup\\excliente.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAawBUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:55:56.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "excluimarca.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excluimarca.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\excluimarca.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excluimarca.cs",
+              "RelativeToolTip": "BlossimMakeup\\excluimarca.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAtwDUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:56:11.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "excluirfuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excluirfuncionario.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\excluirfuncionario.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excluirfuncionario.cs",
+              "RelativeToolTip": "BlossimMakeup\\excluirfuncionario.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAlwD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:57:11.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "excluirproduto.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excluirproduto.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\excluirproduto.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excluirproduto.cs",
+              "RelativeToolTip": "BlossimMakeup\\excluirproduto.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAlwDwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:00:15.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "excluirtipo.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excluirtipo.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\excluirtipo.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excluirtipo.cs",
+              "RelativeToolTip": "BlossimMakeup\\excluirtipo.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAtwEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:00:58.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "excluirvenda.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excluirvenda.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\excluirvenda.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\excluirvenda.cs",
+              "RelativeToolTip": "BlossimMakeup\\excluirvenda.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAtwE8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:00:53.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "exfunc.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\exfunc.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\exfunc.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\exfunc.cs",
+              "RelativeToolTip": "BlossimMakeup\\exfunc.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAEwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:58:45.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "exmarca.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\exmarca.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\exmarca.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\exmarca.cs",
+              "RelativeToolTip": "BlossimMakeup\\exmarca.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAtwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:00:41.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "exproduto.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\exproduto.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\exproduto.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\exproduto.cs",
+              "RelativeToolTip": "BlossimMakeup\\exproduto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwBUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:00:35.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "extipo.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\extipo.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\extipo.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\extipo.cs",
+              "RelativeToolTip": "BlossimMakeup\\extipo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAtwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:00:28.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "exvenda.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\exvenda.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\exvenda.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\exvenda.cs",
+              "RelativeToolTip": "BlossimMakeup\\exvenda.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAEwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:59:05.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\form1.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\form1.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\form1.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:48:03.402Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "cadastroProduto.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastroProduto.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\cadastroProduto.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastroProduto.cs",
+              "RelativeToolTip": "BlossimMakeup\\cadastroProduto.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAIAwwOMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:54:02.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\login.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\login.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\login.cs",
+              "RelativeToolTip": "BlossimMakeup\\login.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAwwE8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:22:50.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "vistipo.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\vistipo.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\vistipo.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\vistipo.cs",
+              "RelativeToolTip": "BlossimMakeup\\vistipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:00:04.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "vistipo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\vistipo.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\vistipo.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\vistipo.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\vistipo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:12:37.113Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "visvendaproduto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\visvendaproduto.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\visvendaproduto.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\visvendaproduto.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\visvendaproduto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:36:35.71Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "visvendaproduto.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\visvendaproduto.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\visvendaproduto.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\visvendaproduto.cs",
+              "RelativeToolTip": "BlossimMakeup\\visvendaproduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:01:38.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "fundoLog.png",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\Resources\\fundoLog.png",
+              "RelativeDocumentMoniker": "BlossimMakeup\\Resources\\fundoLog.png",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\Resources\\fundoLog.png",
+              "RelativeToolTip": "BlossimMakeup\\Resources\\fundoLog.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-01T22:46:59.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ScreenSplash.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\ScreenSplash.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\ScreenSplash.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\ScreenSplash.cs",
+              "RelativeToolTip": "BlossimMakeup\\ScreenSplash.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAASwBYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:33:46.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FundScreenSplah.png",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\Resources\\FundScreenSplah.png",
+              "RelativeDocumentMoniker": "BlossimMakeup\\Resources\\FundScreenSplah.png",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\Resources\\FundScreenSplah.png",
+              "RelativeToolTip": "BlossimMakeup\\Resources\\FundScreenSplah.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-01T22:48:10.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FundoScreenSplah.png",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\Resources\\FundoScreenSplah.png",
+              "RelativeDocumentMoniker": "BlossimMakeup\\Resources\\FundoScreenSplah.png",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\Resources\\FundoScreenSplah.png",
+              "RelativeToolTip": "BlossimMakeup\\Resources\\FundoScreenSplah.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-01T22:46:31.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "cadastro.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastro.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\cadastro.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastro.cs",
+              "RelativeToolTip": "BlossimMakeup\\cadastro.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAApwF8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:23:54.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Forml.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\Forml.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\Forml.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\Forml.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\Forml.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:48:04.7Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "menuFunc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\menuFunc.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\menuFunc.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\menuFunc.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\menuFunc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T23:52:45.381Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FuncLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\FuncLogin.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\FuncLogin.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\FuncLogin.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\FuncLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:11:56.558Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "cadastroFunc.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastroFunc.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\cadastroFunc.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastroFunc.cs",
+              "RelativeToolTip": "BlossimMakeup\\cadastroFunc.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAASwJIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:38:33.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "cadastroClien.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastroClien.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\cadastroClien.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastroClien.cs",
+              "RelativeToolTip": "BlossimMakeup\\cadastroClien.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAIAwwHIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T23:21:57.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "cadastrarTipo.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastrarTipo.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\cadastrarTipo.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastrarTipo.cs",
+              "RelativeToolTip": "BlossimMakeup\\cadastrarTipo.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAIAwwEEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:47:34.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "cadastrarMarca.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastrarMarca.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\cadastrarMarca.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\cadastrarMarca.cs",
+              "RelativeToolTip": "BlossimMakeup\\cadastrarMarca.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAIAwwEEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:43:59.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "alterarVenda.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\alterarVenda.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\alterarVenda.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\alterarVenda.cs",
+              "RelativeToolTip": "BlossimMakeup\\alterarVenda.cs",
+              "ViewState": "AgIAACYBAAAAAAAAAIAwwDkBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:38:07.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "alterarClien.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\alterarClien.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\alterarClien.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\alterarClien.cs",
+              "RelativeToolTip": "BlossimMakeup\\alterarClien.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAIAwwIMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T01:45:36.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "alterarProd.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\alterarProd.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\alterarProd.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\alterarProd.cs",
+              "RelativeToolTip": "BlossimMakeup\\alterarProd.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAADgv74AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T01:39:12.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "alterarFunc.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\alterarFunc.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\alterarFunc.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\alterarFunc.cs",
+              "RelativeToolTip": "BlossimMakeup\\alterarFunc.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAIAwwIoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T01:45:16.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "menuFunc.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\menuFunc.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\menuFunc.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\menuFunc.cs",
+              "RelativeToolTip": "BlossimMakeup\\menuFunc.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAhwNMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:40:58.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "visvenda.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\visvenda.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\visvenda.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\visvenda.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\visvenda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:01:40.638Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "visvenda.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\visvenda.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\visvenda.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\visvenda.cs",
+              "RelativeToolTip": "BlossimMakeup\\visvenda.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAIAwwIQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:01:41.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "visproduto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\visproduto.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\visproduto.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\visproduto.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\visproduto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:56:37.725Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "vismarca.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\vismarca.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\vismarca.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\vismarca.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\vismarca.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:01:51.41Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "visproduto.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\visproduto.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\visproduto.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\visproduto.cs",
+              "RelativeToolTip": "BlossimMakeup\\visproduto.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAhwIgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:56:38.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "visfuncionario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\visfuncionario.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\visfuncionario.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\visfuncionario.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\visfuncionario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:56:52.665Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "vismarca.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\vismarca.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\vismarca.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\vismarca.cs",
+              "RelativeToolTip": "BlossimMakeup\\vismarca.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAIAwwIEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:01:52.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "viscliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\viscliente.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\viscliente.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\viscliente.cs [Design]",
+              "RelativeToolTip": "BlossimMakeup\\viscliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:27:34.7Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "visfuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\visfuncionario.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\visfuncionario.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\visfuncionario.cs",
+              "RelativeToolTip": "BlossimMakeup\\visfuncionario.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAIAwwIEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:56:54.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "viscliente.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\viscliente.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\viscliente.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\viscliente.cs",
+              "RelativeToolTip": "BlossimMakeup\\viscliente.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAhwI8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:02:19.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "form1.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\form1.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\form1.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\form1.cs",
+              "RelativeToolTip": "BlossimMakeup\\form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIAwwBwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:09:13.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Forml.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\Forml.Designer.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\Forml.Designer.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\Forml.Designer.cs",
+              "RelativeToolTip": "BlossimMakeup\\Forml.Designer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAApwMYCAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:29:42.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "FuncLogin.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\FuncLogin.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\FuncLogin.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\FuncLogin.cs",
+              "RelativeToolTip": "BlossimMakeup\\FuncLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T00:15:43.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "AdmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\AdmLogin.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\AdmLogin.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\AdmLogin.cs",
+              "RelativeToolTip": "BlossimMakeup\\AdmLogin.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwCEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:14:03.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ScreenSplash.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\ScreenSplash.Designer.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\ScreenSplash.Designer.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\ScreenSplash.Designer.cs",
+              "RelativeToolTip": "BlossimMakeup\\ScreenSplash.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:58:05.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\form1.Designer.cs",
+              "RelativeDocumentMoniker": "BlossimMakeup\\form1.Designer.cs",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\form1.Designer.cs",
+              "RelativeToolTip": "BlossimMakeup\\form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:58:03.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\App.config",
+              "RelativeDocumentMoniker": "BlossimMakeup\\App.config",
+              "ToolTip": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\BlossimMakeup\\App.config",
+              "RelativeToolTip": "BlossimMakeup\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-26T20:02:12.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

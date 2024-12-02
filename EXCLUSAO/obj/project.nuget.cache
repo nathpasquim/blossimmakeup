@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NU5MRWEsD60=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonas\\Desktop\\teste\\BlossimMakeup\\EXCLUSAO\\EXCLUSAO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonas\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

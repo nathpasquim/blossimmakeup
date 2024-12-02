@@ -1,0 +1,6 @@
+C:\Users\jonas\Desktop\teste\BlossimMakeup\alterar\obj\Debug\alterar.csproj.AssemblyReference.cache
+C:\Users\jonas\Desktop\teste\BlossimMakeup\alterar\obj\Debug\alterar.alterarClien.resources
+C:\Users\jonas\Desktop\teste\BlossimMakeup\alterar\obj\Debug\alterar.Form1.resources
+C:\Users\jonas\Desktop\teste\BlossimMakeup\alterar\obj\Debug\alterar.Properties.Resources.resources
+C:\Users\jonas\Desktop\teste\BlossimMakeup\alterar\obj\Debug\alterar.csproj.GenerateResource.cache
+C:\Users\jonas\Desktop\teste\BlossimMakeup\alterar\obj\Debug\alterar.csproj.CoreCompileInputs.cache
