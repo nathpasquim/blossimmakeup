@@ -472,28 +472,36 @@ CADASTRAR FUNCIONARIO
 
 - **Cadastro de Funcionario**: Permite adicionar novos funcionários ao banco de dados.
 - **Validação de Entradas**: Valida campos obrigatórios e verifica valores para CPF,CEP e Email
-- **Filtro de Funcionários**: Pesquisa funcionários por nome para facilitar a seleção.
+
 
 ## Pré-requisitos
 
 - **Ambiente de desenvolvimento**: Visual Studio
 - **Banco de dados MySQL**
 - **Biblioteca MySqlConnector**: Gerenciador de conexão para MySQL no .NET.
-## Estrutura do Banco de Dados
 
-Certifique-se de que as tabelas abaixo existem no banco de dados `blossommakeup`:
+CADASTRAR TIPO
+## Funcionalidades
 
-### Tabela `produto`
-```sql
-CREATE TABLE produto (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    preco DECIMAL(10, 2),
-    quantidade INT,
-    nome VARCHAR(255),
-    FK_tipo_id INT,
-    FK_marca_id INT,
-    FK_funcionario_id INT
-);
+- **Cadastro de Tipo**: Permite adicionar novos tipos ao banco de dados.
+
+## Pré-requisitos
+
+- **Ambiente de desenvolvimento**: Visual Studio
+- **Banco de dados MySQL**
+- **Biblioteca MySqlConnector**: Gerenciador de conexão para MySQL no .NET.
+
+CADASTRAR MARCA
+## Funcionalidades
+
+- **Cadastro de Marca**: Permite adicionar novas marcas ao banco de dados.
+
+## Pré-requisitos
+
+- **Ambiente de desenvolvimento**: Visual Studio
+- **Banco de dados MySQL**
+- **Biblioteca MySqlConnector**: Gerenciador de conexão para MySQL no .NET.
+
 
 
 
