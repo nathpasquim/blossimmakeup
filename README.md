@@ -694,6 +694,7 @@ CADASTRAR MARCA
 - **Biblioteca MySqlConnector**: Gerenciador de conexão para MySQL no .NET.
 
 CADASTRAR VENDA
+
 venda![image](https://github.com/isalemecruz/blossom-make-up/blob/8fcb1a5e5d46cb11b241e8918cf47176ad02a0ca/cadastarvenda.jpg)<br>
 ---
 
