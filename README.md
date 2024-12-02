@@ -330,6 +330,8 @@ Sucesso: Exibe confirmação da atualização da venda.<br>
 Erro: Exibe detalhes do problema (ex.: produto não encontrado, venda não existente).<br>
 
 <h1>Menu do Administrador(Forml) .</h1>
+
+No projeto BlossomMakeup, a página de menu é responsável por organizar e facilitar a navegação entre as principais funcionalidades do sistema. O código utiliza painéis dinâmicos para criar menus <br>e submenus, que podem ser exibidos ou ocultados conforme a interação do usuário. Cada botão principal abre opções específicas, como cadastrar, visualizar, alterar ou excluir dados, <br>e os formulários associados são carregados diretamente no painel principal para manter a interface integrada e organizada. Essa abordagem garante uma navegação fluida,<br> com acesso prático às funcionalidades, mantendo o sistema intuitivo e eficiente.<br>
 ## 🛠 Funcionalidades
 
 - **Produtos**:
@@ -379,12 +381,52 @@ Erro: Exibe detalhes do problema (ex.: produto não encontrado, venda não exist
    ```bash
    git clone https://github.com/usuario/BlossimMakeup.git
 
+<h1>Menu do Funcionário(menuFun) .</h1>
+O menu funcionário segue o mesmo modelo do menu do admisnistrador. A única diferença é que não tem a opção de modificar o funcionáro. Já que quem acessa essa página são os funcionarios e eles não possuem acesso de cadastrar,visualizar,alterse ou de excluir funcionário.
+## 🛠 Funcionalidades
+
+- **Produtos**:
+  - Cadastrar produtos
+  - Visualizar produtos
+  - Alterar produtos
+  - Excluir produtos
+
+- **Funcionários**:
+  - Cadastrar funcionários
+  - Visualizar funcionários
+  - Alterar dados de funcionários
+  - Excluir funcionários
+
+- **Clientes**:
+  - Cadastrar clientes
+  - Visualizar clientes
+  - Alterar dados de clientes
+  - Excluir clientes
+
+- **Vendas**:
+  - Cadastrar vendas
+  - Visualizar vendas
+  - Alterar vendas
+  - Excluir vendas
+
+- **Outros Cadastros**:
+  - Cadastrar marcas
+  - Cadastrar tipos de produtos
+  - Visualizar marcas
+  - Visualizar tipos de produtos
+
+- Navegação:
+  - Interface com menus e submenus interativos para facilitar o acesso às funcionalidades.
+  - Exibição de formulários de forma modular usando painéis.
+
+---
 
 <h1>Cadastrar.</h1>
 A funcionalidade de Cadastro no projeto BlossomMakeup é essencial para a organização e eficiência do sistema, permitindo registrar e gerenciar<br> informações cruciais, como produtos, vendas, marcas, tipos de produtos, clientes e funcionários. Essa funcionalidade centraliza os dados, <br>facilitando o acesso e a atualização, além de otimizar processos como controle de estoque, registro de vendas e geração de relatórios. Ao <br>oferecer um gerenciamento eficiente e reduzir erros manuais, o cadastro contribui para decisões mais assertivas e uma experiência mais <br>profissional, refletindo o compromisso do sistema em atender às necessidades da loja física de maquiagem.<br>
 # Cadastro de Produtos - BlossomMakeup
 
 Este projeto é uma aplicação Windows Forms em C# para cadastrar produtos em um banco de dados MySQL. A aplicação permite gerenciar informações de produtos, incluindo tipo, marca, preço, quantidade, e o funcionário responsável pelo cadastro.
+CADASTRAR PRODUTO
 ## Funcionalidades
 
 - **Cadastro de Produtos**: Permite adicionar novos produtos ao banco de dados.
@@ -413,6 +455,45 @@ CREATE TABLE produto (
     FK_funcionario_id INT
 );
 
+CADASTRAR CLIENTE
+## Funcionalidades
+
+- **Cadastro de CLIENTE**: Permite adicionar novos clientes ao banco de dados.
+- **Validação de Entradas**: Valida campos obrigatórios e verifica valores para CPF, Telefone e Email
+
+## Pré-requisitos
+
+- **Ambiente de desenvolvimento**: Visual Studio
+- **Banco de dados MySQL**
+- **Biblioteca MySqlConnector**: Gerenciador de conexão para MySQL no .NET.
+
+CADASTRAR FUNCIONARIO
+## Funcionalidades
+
+- **Cadastro de Funcionario**: Permite adicionar novos funcionários ao banco de dados.
+- **Validação de Entradas**: Valida campos obrigatórios e verifica valores para CPF,CEP e Email
+- **Filtro de Funcionários**: Pesquisa funcionários por nome para facilitar a seleção.
+
+## Pré-requisitos
+
+- **Ambiente de desenvolvimento**: Visual Studio
+- **Banco de dados MySQL**
+- **Biblioteca MySqlConnector**: Gerenciador de conexão para MySQL no .NET.
+## Estrutura do Banco de Dados
+
+Certifique-se de que as tabelas abaixo existem no banco de dados `blossommakeup`:
+
+### Tabela `produto`
+```sql
+CREATE TABLE produto (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    preco DECIMAL(10, 2),
+    quantidade INT,
+    nome VARCHAR(255),
+    FK_tipo_id INT,
+    FK_marca_id INT,
+    FK_funcionario_id INT
+);
 
 
 
