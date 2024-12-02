@@ -669,6 +669,7 @@ CADASTRAR FUNCIONARIO
 ---
 
 CADASTRAR TIPO
+tipo![image](https://github.com/isalemecruz/blossom-make-up/blob/8fcb1a5e5d46cb11b241e8918cf47176ad02a0ca/cadastrartipo.jpg)<br>
 ## Funcionalidades
 
 - **Cadastro de Tipo**: Permite adicionar novos tipos ao banco de dados.
@@ -681,6 +682,7 @@ CADASTRAR TIPO
 ---
 
 CADASTRAR MARCA
+
 ## Funcionalidades
 
 - **Cadastro de Marca**: Permite adicionar novas marcas ao banco de dados.
@@ -692,6 +694,7 @@ CADASTRAR MARCA
 - **Biblioteca MySqlConnector**: Gerenciador de conexão para MySQL no .NET.
 
 CADASTRAR VENDA
+venda![image](https://github.com/isalemecruz/blossom-make-up/blob/8fcb1a5e5d46cb11b241e8918cf47176ad02a0ca/cadastarvenda.jpg)<br>
 ---
 
 ## 🛠 Funcionalidades
