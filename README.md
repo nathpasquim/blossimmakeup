@@ -329,6 +329,56 @@ Após qualquer operação, uma mensagem é exibida:<br>
 Sucesso: Exibe confirmação da atualização da venda.<br>
 Erro: Exibe detalhes do problema (ex.: produto não encontrado, venda não existente).<br>
 
+<h1>Menu do Administrador(Forml) .</h1>
+## 🛠 Funcionalidades
+
+- **Produtos**:
+  - Cadastrar produtos
+  - Visualizar produtos
+  - Alterar produtos
+  - Excluir produtos
+
+- **Funcionários**:
+  - Cadastrar funcionários
+  - Visualizar funcionários
+  - Alterar dados de funcionários
+  - Excluir funcionários
+
+- **Clientes**:
+  - Cadastrar clientes
+  - Visualizar clientes
+  - Alterar dados de clientes
+  - Excluir clientes
+
+- **Vendas**:
+  - Cadastrar vendas
+  - Visualizar vendas
+  - Alterar vendas
+  - Excluir vendas
+
+- **Outros Cadastros**:
+  - Cadastrar marcas
+  - Cadastrar tipos de produtos
+  - Visualizar marcas
+  - Visualizar tipos de produtos
+
+- Navegação:
+  - Interface com menus e submenus interativos para facilitar o acesso às funcionalidades.
+  - Exibição de formulários de forma modular usando painéis.
+
+---
+
+## 🚀 Instalação
+
+### Pré-requisitos
+- .NET Framework instalado na máquina (versão mínima recomendada: 4.7.2).
+- Ambiente de desenvolvimento para C#, como Visual Studio.
+
+### Passos para execução
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/usuario/BlossimMakeup.git
+
 
 <h1>Cadastrar.</h1>
 A funcionalidade de Cadastro no projeto BlossomMakeup é essencial para a organização e eficiência do sistema, permitindo registrar e gerenciar<br> informações cruciais, como produtos, vendas, marcas, tipos de produtos, clientes e funcionários. Essa funcionalidade centraliza os dados, <br>facilitando o acesso e a atualização, além de otimizar processos como controle de estoque, registro de vendas e geração de relatórios. Ao <br>oferecer um gerenciamento eficiente e reduzir erros manuais, o cadastro contribui para decisões mais assertivas e uma experiência mais <br>profissional, refletindo o compromisso do sistema em atender às necessidades da loja física de maquiagem.<br>
