@@ -420,7 +420,147 @@ O menu funcionário segue o mesmo modelo do menu do admisnistrador. A única dif
   - Exibição de formulários de forma modular usando painéis.
 
 ---
+<h1>Login.</h1>
+A funcionalidade de Login no projeto BlossomMakeup é essencial para garantir a segurança e o controle de acesso ao sistema. Ela permite que os usuários, como administradores e funcionários, se autentiquem utilizando email e senha cadastrados. Após a validação no banco de dados, o sistema redireciona o usuário ao menu correspondente ao seu perfil, limitando o acesso às funcionalidades de acordo com sua permissão. Essa abordagem protege os dados da loja e organiza as operações, assegurando que cada usuário tenha acesso apenas às ferramentas necessárias para sua função.
 
+## 🛠 Funcionalidades
+
+- **Autenticação de Usuários**:
+  - Validação de credenciais (email e senha) contra o banco de dados.
+  - Diferenciação de acesso para **Administradores** e **Funcionários**.
+
+- **Mensagens de Erro**:
+  - Exibição de alertas para campos obrigatórios vazios.
+  - Notificação em caso de credenciais incorretas.
+
+- **Redirecionamento**:
+  - Acesso à interface administrativa para usuários do tipo **Admin**.
+  - Acesso ao menu de funcionários para usuários do tipo **Funcionario**.
+
+- **Navegação**:
+  - Link para a página de cadastro de novos usuários.
+
+---
+
+## 🗂 Estrutura do Código
+
+### Principais Métodos:
+
+1. **Autenticação**:
+   - `btnLogin_Click_1`: 
+     - Obtém os valores dos campos de email e senha.
+     - Verifica se os campos estão preenchidos.
+     - Consulta o banco de dados para validar as credenciais.
+     - Determina o tipo de usuário (Admin ou Funcionario) e redireciona para a interface correspondente.
+
+2. **Link para Cadastro**:
+   - `linkLabel1_LinkClicked`: Redireciona para o formulário de cadastro para novos usuários.
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- **Linguagem**: C# com Windows Forms
+- **Banco de Dados**: MySQL
+- **Bibliotecas**:
+  - [MySqlConnector](https://mysqlconnector.net/): Conexão com o banco de dados.
+
+---
+
+## 🚀 Como Usar
+
+### Requisitos
+- Banco de dados MySQL configurado com a tabela `usuarios`.
+- O sistema deve conter usuários cadastrados com as seguintes colunas:
+  - **email**: Endereço de email do usuário.
+  - **senha**: Senha do usuário.
+  - **tipoUsuario**: Define o tipo do usuário (Admin ou Funcionario).
+
+### Passos para Login
+
+1. **Preencha as Credenciais**:
+   - Insira o email e a senha nos campos correspondentes.
+
+2. **Clique em "Login"**:
+   - Se as credenciais estiverem corretas, o sistema redirecionará para a tela apropriada:
+     - **Admin**: Tela administrativa completa.
+     - **Funcionario**: Menu simplificado para funcionários.
+   - Se houver erro, uma mensagem será exibida.
+
+3. **Cadastre-se (Opcional)**:
+   - Use o link "Cadastre-se aqui" para criar uma nova conta, se necessário.
+
+---
+<h1>Página de Cadastro.</h1>
+A funcionalidade de Cadastro no projeto BlossomMakeup é essencial para adicionar novos usuários ao sistema com suas respectivas credenciais e permissões. Através da página de cadastro, o administrador pode registrar usuários fornecendo informações como email, senha e tipo de usuário (Administrador ou Funcionário). Após preencher os campos obrigatórios e validar os dados, as informações são armazenadas com segurança no banco de dados. Essa funcionalidade garante o controle de acesso ao sistema e organiza os perfis de acordo com suas responsabilidades, contribuindo para o gerenciamento eficiente da loja.
+
+## 🛠 Funcionalidades
+
+- **Cadastro de Usuários**:
+  - Registro de usuários com email, senha e tipo de usuário.
+  - Suporte para os tipos de usuários:
+    - **Admin**: Acesso completo às funcionalidades administrativas.
+    - **Funcionario**: Acesso limitado ao menu de funcionários.
+
+- **Validação de Dados**:
+  - Verificação de campos obrigatórios antes do envio.
+  - Exibição de mensagens de erro ou sucesso, conforme aplicável.
+
+- **Navegação**:
+  - Link para redirecionamento à página de login após o cadastro.
+
+---
+
+## 🗂 Estrutura do Código
+
+### Principais Métodos:
+
+1. **Cadastro**:
+   - `btnCadastrar_Click_1`: 
+     - Coleta os dados do formulário (email, senha, tipo de usuário).
+     - Valida os campos obrigatórios.
+     - Insere os dados na tabela `usuarios` do banco de dados.
+     - Exibe mensagens de sucesso ou erro.
+
+2. **Redirecionamento para Login**:
+   - `button1_Click`: Abre a página de login após o cadastro.
+   - `linkLabel1_LinkClicked`: Fornece um link para a página de login.
+
+3. **Limpeza do Formulário**:
+   - Limpa os campos após o cadastro bem-sucedido.
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- **Linguagem**: C# com Windows Forms
+- **Banco de Dados**: MySQL
+- **Bibliotecas**:
+  - [MySqlConnector](https://mysqlconnector.net/): Conexão com o banco de dados.
+
+---
+
+## 🚀 Como Usar
+
+### Requisitos
+- Banco de dados MySQL configurado com a tabela `usuarios`.
+
+### Passos para Cadastro
+
+1. **Preencha os Dados**:
+   - Insira um email válido.
+   - Escolha uma senha segura.
+   - Selecione o tipo de usuário (Admin ou Funcionario).
+
+2. **Clique em "Cadastrar"**:
+   - Se os dados forem válidos, o usuário será salvo no banco de dados.
+   - Uma mensagem de sucesso será exibida.
+
+3. **Redirecione para o Login**:
+   - Use o botão ou o link para acessar a página de login e usar as novas credenciais.
+
+---
+---
 <h1>Cadastrar.</h1>
 A funcionalidade de Cadastro no projeto BlossomMakeup é essencial para a organização e eficiência do sistema, permitindo registrar e gerenciar<br> informações cruciais, como produtos, vendas, marcas, tipos de produtos, clientes e funcionários. Essa funcionalidade centraliza os dados, <br>facilitando o acesso e a atualização, além de otimizar processos como controle de estoque, registro de vendas e geração de relatórios. Ao <br>oferecer um gerenciamento eficiente e reduzir erros manuais, o cadastro contribui para decisões mais assertivas e uma experiência mais <br>profissional, refletindo o compromisso do sistema em atender às necessidades da loja física de maquiagem.<br>
 # Cadastro de Produtos - BlossomMakeup
@@ -454,6 +594,7 @@ CREATE TABLE produto (
     FK_marca_id INT,
     FK_funcionario_id INT
 );
+---
 
 CADASTRAR CLIENTE
 ## Funcionalidades
@@ -466,6 +607,7 @@ CADASTRAR CLIENTE
 - **Ambiente de desenvolvimento**: Visual Studio
 - **Banco de dados MySQL**
 - **Biblioteca MySqlConnector**: Gerenciador de conexão para MySQL no .NET.
+---
 
 CADASTRAR FUNCIONARIO
 ## Funcionalidades
@@ -479,6 +621,7 @@ CADASTRAR FUNCIONARIO
 - **Ambiente de desenvolvimento**: Visual Studio
 - **Banco de dados MySQL**
 - **Biblioteca MySqlConnector**: Gerenciador de conexão para MySQL no .NET.
+---
 
 CADASTRAR TIPO
 ## Funcionalidades
@@ -490,6 +633,7 @@ CADASTRAR TIPO
 - **Ambiente de desenvolvimento**: Visual Studio
 - **Banco de dados MySQL**
 - **Biblioteca MySqlConnector**: Gerenciador de conexão para MySQL no .NET.
+---
 
 CADASTRAR MARCA
 ## Funcionalidades
@@ -502,7 +646,95 @@ CADASTRAR MARCA
 - **Banco de dados MySQL**
 - **Biblioteca MySqlConnector**: Gerenciador de conexão para MySQL no .NET.
 
+CADASTRAR VENDA
+---
 
+## 🛠 Funcionalidades
+
+- **Cadastro de vendas**:
+  - Seleção de clientes, funcionários e produtos.
+  - Cálculo automático do valor total com base nos produtos selecionados.
+  - Armazenamento da venda no banco de dados, incluindo os itens relacionados.
+  
+- **Filtros interativos**:
+  - Pesquisa por nome de cliente.
+  - Pesquisa por nome de produto.
+
+- **Gestão dos produtos da venda**:
+  - Adicionar produtos à venda.
+  - Exibição de uma lista detalhada dos produtos adicionados e seus respectivos preços.
+
+- **Validação de dados**:
+  - Garantia de que todos os campos necessários estão preenchidos antes do envio.
+
+---
+
+## 🗂 Estrutura do Código
+
+### Principais métodos e responsabilidades:
+
+1. **CarregarDados**:
+   - `CarregarFuncionarios()`: Carrega a lista de funcionários do banco de dados para um combo box.
+   - `CarregarProdutos()`: Carrega a lista de produtos disponíveis.
+   - `CarregarClientes()`: Carrega os clientes cadastrados para seleção.
+
+2. **Filtros**:
+   - `txtFiltroClien_TextChanged`: Atualiza a lista de clientes com base no texto de busca.
+   - `txtFiltroProduto_TextChanged`: Atualiza a lista de produtos com base no texto de busca.
+
+3. **Cadastro de vendas**:
+   - `btnCad_Click`: 
+     - Valida os dados.
+     - Insere a venda no banco de dados com as referências de cliente, funcionário e produtos.
+     - Confirma ou reverte a operação com transações do MySQL.
+
+4. **Adição de produtos**:
+   - `btnAdicionarProduto_Click`: 
+     - Adiciona o produto selecionado à lista.
+     - Atualiza o valor total da venda.
+
+5. **Limpeza do formulário**:
+   - `LimparFormulario`: Restaura os campos para um novo cadastro.
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- **Linguagem**: C# com Windows Forms
+- **Banco de Dados**: MySQL
+- **Bibliotecas**:
+  - [MySqlConnector](https://mysqlconnector.net/): Gerenciamento de conexões e comandos para o banco de dados.
+
+---
+
+## 🚀 Como Usar
+
+### Requisitos
+- Banco de dados MySQL configurado com o esquema necessário:
+  - Tabelas: `venda`, `vendaproduto`, `cliente`, `funcionario`, `produto`.
+- Aplicação compilada em um ambiente com suporte a Windows Forms e .NET Framework.
+
+### Passos para Cadastro de Vendas
+1. **Selecionar Cliente**:
+   - Utilize o campo de pesquisa para filtrar clientes ou escolha diretamente no combo box.
+
+2. **Selecionar Funcionário**:
+   - Escolha um funcionário para associar à venda.
+
+3. **Adicionar Produtos**:
+   - Use o combo box para selecionar um produto e clique em "Adicionar".
+   - O produto será listado junto ao preço, e o valor total será atualizado automaticamente.
+
+4. **Finalizar Venda**:
+   - Clique em "Cadastrar Venda".
+   - O sistema verificará os dados e registrará a venda no banco de dados.
+
+---
+
+## 💡 Dicas
+
+- **Manter o banco atualizado**: Certifique-se de que as tabelas de produtos, clientes e funcionários estejam preenchidas corretamente antes de usar esta funcionalidade.
+- **Validação visual**: Confira a lista de produtos adicionados antes de cadastrar a venda.
 
 
 
