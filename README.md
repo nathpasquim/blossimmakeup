@@ -329,6 +329,16 @@ Após qualquer operação, uma mensagem é exibida:<br>
 Sucesso: Exibe confirmação da atualização da venda.<br>
 Erro: Exibe detalhes do problema (ex.: produto não encontrado, venda não existente).<br>
 
+---
+<h1>Imagens Cadastrar.</h1>
+funcionario![image](https://github.com/isalemecruz/blossom-make-up/blob/8fcb1a5e5d46cb11b241e8918cf47176ad02a0ca/cadastrarfuncionario.png)<br>
+venda![image](https://github.com/isalemecruz/blossom-make-up/blob/8fcb1a5e5d46cb11b241e8918cf47176ad02a0ca/cadastarvenda.jpg)<br>
+cliente![image](https://github.com/isalemecruz/blossom-make-up/blob/8fcb1a5e5d46cb11b241e8918cf47176ad02a0ca/cadastrarcliente.png)<br>
+produto![image](https://github.com/isalemecruz/blossom-make-up/blob/8fcb1a5e5d46cb11b241e8918cf47176ad02a0ca/cadastrarproduto.jpg)<br>
+tipo![image](https://github.com/isalemecruz/blossom-make-up/blob/8fcb1a5e5d46cb11b241e8918cf47176ad02a0ca/cadastrartipo.jpg)<br>
+menuadm1![image](https://github.com/isalemecruz/blossom-make-up/blob/853b585bdc3a735482705c72d7b3b7132d6f5dac/menuadm1.jpg)<br>
+menufunc1![image](https://github.com/isalemecruz/blossom-make-up/blob/853b585bdc3a735482705c72d7b3b7132d6f5dac/menufuncionario1.jpg)<br>
+--
 <h1>Página de Carregamento(ScreenSplash) .</h1>
 Ela utiliza uma barra de progresso acompanhada por um temporizador para criar uma transição suave enquanto os recursos necessários são carregados. Assim que a barra de progresso atinge 100%, o sistema redireciona automaticamente o usuário para a tela de login. Essa funcionalidade melhora a experiência do usuário, sinalizando que o sistema está sendo preparado e garantindo uma inicialização organizada e profissional.
 A página **splash_screen** é a tela de carregamento inicial do sistema **BlossimMakeup**. Ela exibe uma barra de progresso que avança gradualmente antes de redirecionar o usuário para a tela de login.
@@ -669,7 +679,9 @@ CADASTRAR FUNCIONARIO
 ---
 
 CADASTRAR TIPO
-tipo![image](https://github.com/isalemecruz/blossom-make-up/blob/8fcb1a5e5d46cb11b241e8918cf47176ad02a0ca/cadastrartipo.jpg)<br>
+
+
+
 ## Funcionalidades
 
 - **Cadastro de Tipo**: Permite adicionar novos tipos ao banco de dados.
@@ -695,7 +707,8 @@ CADASTRAR MARCA
 
 CADASTRAR VENDA
 
-venda![image](https://github.com/isalemecruz/blossom-make-up/blob/8fcb1a5e5d46cb11b241e8918cf47176ad02a0ca/cadastarvenda.jpg)<br>
+
+
 ---
 
 ## 🛠 Funcionalidades
