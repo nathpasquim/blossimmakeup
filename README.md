@@ -329,6 +329,67 @@ Após qualquer operação, uma mensagem é exibida:<br>
 Sucesso: Exibe confirmação da atualização da venda.<br>
 Erro: Exibe detalhes do problema (ex.: produto não encontrado, venda não existente).<br>
 
+<h1>Página de Carregamento(ScreenSplash) .</h1>
+Ela utiliza uma barra de progresso acompanhada por um temporizador para criar uma transição suave enquanto os recursos necessários são carregados. Assim que a barra de progresso atinge 100%, o sistema redireciona automaticamente o usuário para a tela de login. Essa funcionalidade melhora a experiência do usuário, sinalizando que o sistema está sendo preparado e garantindo uma inicialização organizada e profissional.
+A página **splash_screen** é a tela de carregamento inicial do sistema **BlossimMakeup**. Ela exibe uma barra de progresso que avança gradualmente antes de redirecionar o usuário para a tela de login.
+---
+
+## 🛠 Funcionalidades
+
+- **Barra de Progresso**:
+  - Mostra o progresso do carregamento inicial do sistema.
+  - Incremento automático usando um temporizador.
+
+- **Transição Automática**:
+  - Redireciona o usuário para a página de login após a conclusão do carregamento.
+
+---
+
+## 🗂 Estrutura do Código
+
+### Principais Métodos:
+
+1. **Carregamento da Barra de Progresso**:
+   - `timer1_Tick`: 
+     - Incrementa o valor da barra de progresso a cada intervalo de tempo definido.
+     - Detecta quando o progresso atinge 100% e realiza a transição para a tela de login.
+
+2. **Redirecionamento**:
+   - Após o término do progresso, o formulário **login** é exibido, e o formulário **splash_screen** é ocultado.
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- **Linguagem**: C# com Windows Forms
+- **Componentes do Windows Forms**:
+  - **ProgressBar**: Para exibir o progresso do carregamento.
+  - **Timer**: Para controlar o incremento da barra de progresso.
+
+---
+
+## 🚀 Como Funciona
+
+1. **Inicialização**:
+   - Quando a aplicação é iniciada, a tela de carregamento é exibida.
+
+2. **Barra de Progresso**:
+   - A barra de progresso é incrementada em passos definidos (neste caso, de 2 em 2) em intervalos controlados pelo **Timer**.
+
+3. **Transição**:
+   - Quando a barra atinge 100%, a tela de carregamento fecha automaticamente, e o usuário é redirecionado para a tela de login.
+
+---
+
+## 💡 Dicas de Personalização
+
+- **Velocidade da Barra de Progresso**:
+  - Alterar o valor de incremento na linha `progressBar1.Increment(2)` para ajustar a velocidade do carregamento.
+  - Modificar o intervalo do timer no editor de propriedades para influenciar o ritmo do progresso.
+
+- **Design**:
+  - Personalize o design da **splash_screen** para refletir a identidade visual da aplicação, como cores, logotipo, ou animações.
+
 <h1>Menu do Administrador(Forml) .</h1>
 
 No projeto BlossomMakeup, a página de menu é responsável por organizar e facilitar a navegação entre as principais funcionalidades do sistema. O código utiliza painéis dinâmicos para criar menus <br>e submenus, que podem ser exibidos ou ocultados conforme a interação do usuário. Cada botão principal abre opções específicas, como cadastrar, visualizar, alterar ou excluir dados, <br>e os formulários associados são carregados diretamente no painel principal para manter a interface integrada e organizada. Essa abordagem garante uma navegação fluida,<br> com acesso prático às funcionalidades, mantendo o sistema intuitivo e eficiente.<br>
@@ -579,23 +640,7 @@ CADASTRAR PRODUTO
 - **Ambiente de desenvolvimento**: Visual Studio
 - **Banco de dados MySQL**
 - **Biblioteca MySqlConnector**: Gerenciador de conexão para MySQL no .NET.
-## Estrutura do Banco de Dados
-
-Certifique-se de que as tabelas abaixo existem no banco de dados `blossommakeup`:
-
-### Tabela `produto`
-```sql
-CREATE TABLE produto (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    preco DECIMAL(10, 2),
-    quantidade INT,
-    nome VARCHAR(255),
-    FK_tipo_id INT,
-    FK_marca_id INT,
-    FK_funcionario_id INT
-);
 ---
-
 CADASTRAR CLIENTE
 ## Funcionalidades
 
